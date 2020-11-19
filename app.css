@@ -1,0 +1,20 @@
+img {
+  width: 100px;
+  position: absolute;
+  top: 200px;
+  left: 10px;
+}
+
+.score {
+  height: 25px;
+  position: relative;
+  float: right;
+  background: blue;
+  padding: 15px 25px;
+  font-size: 20px;
+  line-height: 2px;
+  font-weight: bold;
+  border-radius: 3px;
+  color: white;
+  margin-top: 8px;
+}
